@@ -1,0 +1,12 @@
+body {
+    background: #1e3154a3
+}
+
+#daily_primes {
+    background: #eee;
+    box-shadow: 1px 1px 3px #333;
+}
+
+.ds_elem {
+    display: inline-block;
+}
