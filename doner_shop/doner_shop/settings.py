@@ -181,7 +181,8 @@ INSTALLED_APPS = [
     'djangocms_googlemap',
     'djangocms_video',
     'doner_shop',
-    'doner_durum'
+    'doner_durum',
+    'blogs',
 ]
 
 LANGUAGES = (

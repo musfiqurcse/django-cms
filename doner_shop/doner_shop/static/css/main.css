@@ -5,6 +5,7 @@ body {
 #daily_primes {
     background: #eee;
     box-shadow: 1px 1px 3px #333;
+    margin-bottom: 5%;
 }
 
 .ds_elem {

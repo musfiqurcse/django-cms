@@ -31,8 +31,16 @@ _Structure show all the places where you can edit edit_
 
 4. Create a new apps for django doner shop
 ```shell script
-
+python manage.py startapp doner_shop
 ```
+
+5. Apphooks in DjangoCMS
+```shell script
+python manage.py start app blogs
+```
+
+
+
 
 ### Some Key points for Template Design in Django CMS
 
